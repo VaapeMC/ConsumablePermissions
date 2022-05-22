@@ -1,0 +1,8 @@
+name: ConsumablePermissions
+main: me.vaape.consumablepermissions.ConsumablePermissions
+version: 1.0
+api-version: 1.18
+depend: [LuckPerms]
+commands:
+  hideeffects:
+    description: Hides attributes and potion effects
